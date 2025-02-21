@@ -1,0 +1,6 @@
+1,John,Doe,john.doe,password123,true
+2,Jane,Smith,janes.mith,mysecurepass,true
+3,Mike,Johnson,mike.trainer,trainhard,true
+4,Sarah,Lee,sarah.yoga,relaxandstretch,true
+5,Emily,Brown,emily.pilates,corefocus,true
+6,Daniel,White,daniel.pilates,reformer123,true
